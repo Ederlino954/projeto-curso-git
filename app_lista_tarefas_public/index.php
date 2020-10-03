@@ -23,7 +23,7 @@
 
 		<script>
 			function editar(id, txt_tarefa) {
-
+				// teste par o git
 				//criar um form de edição
 				let form = document.createElement('form')
 				form.action = 'index.php?pag=index&acao=atualizar'
